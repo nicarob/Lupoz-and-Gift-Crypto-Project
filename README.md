@@ -76,3 +76,13 @@ There are several security concerns related to a smart signature. Given its rigi
    - **Prevention:**
      - **Code:** `Txn.fee() <= Int(1000)`
      - **Explanation:** This check ensures that the transaction fee does not exceed 1000 microAlgos, preventing excessive fees that could otherwise deplete the contract's funds.
+
+## References:
+
+Peter Gruber, *Writing Smart Contracts on Algorand (WSC)*. https://github.com/peterhgruber/writingsmartcontracts_algo
+
+Algorand, *Modern guidelines for smart contracts and smart signatures on Algorand*. https://developer.algorand.org/docs/get-details/dapps/smart-contracts/guidelines/
+
+OpenAI, *ChatGPT*. https://www.openai.com/chatgpt
+
+GitHub, *GitHub Copilot*. https://github.com/features/copilot
