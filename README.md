@@ -1,4 +1,6 @@
-# Introduction
+# Smart Contracts project - Lupoz & Present Smart Signature
+
+## Introduction
 
 This project focuses on several essential functionalities within the Algorand blockchain. It begins with the generation and management of Algorand accounts, ensuring secure storage and handling of credentials. Then, it demonstrates the creation and management of an Algorand Standard Asset (ASA), named "Lupoz." Finally, the implementation of a smart signature written in PyTeal, which enforces specific conditions for transaction execution, particularly to allow a specific user to redeem a preset amount of Algos under specified conditions as a present. These operations highlight Algorand's capabilities for secure, decentralized financial transactions.
 
