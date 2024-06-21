@@ -77,6 +77,12 @@ There are several security concerns related to a smart signature. Given its rigi
      - **Code:** `Txn.fee() <= Int(1000)`
      - **Explanation:** This check ensures that the transaction fee does not exceed 1000 microAlgos, preventing excessive fees that could otherwise deplete the contract's funds.
 
+## Credits 
+
+- Nicola Robatto
+- Edoardo Lupotto
+- Brenda Navarrete
+  
 ## References:
 
 Peter Gruber, *Writing Smart Contracts on Algorand (WSC)*. https://github.com/peterhgruber/writingsmartcontracts_algo
